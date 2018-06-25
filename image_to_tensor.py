@@ -8,6 +8,8 @@ import os
 import torch
 from torchvision.transforms import transforms
 from PIL import Image
+##for all the codes you can change the directory according to yourself..
+
 #1  code for the coversion of image to tensor
 
 
